@@ -1,6 +1,6 @@
 # 🏛️ Extrator de Metadados Tainacan
 
-Este repositório contém um script Python para extrair metadados de uma coleção hospedada na plataforma [Tainacan](https://tainacan.org/), utilizando sua API pública JSON.
+Este repositório contém um script Python para extrair metadados de uma coleção utilizando o software livre [Tainacan](https://tainacan.org/), utilizando sua API pública JSON.
 
 ## 🚀 Funcionalidades
 
